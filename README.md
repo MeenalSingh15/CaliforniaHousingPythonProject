@@ -1,6 +1,7 @@
 # Project-python
 
 In this project, I was provided with a California dataset to answer the following questions. 
+This data set provides housing , income,ocean proximity and other factors data into a dataset and it was used to answer following bussiness questions.
 
 
 ## Questions:
